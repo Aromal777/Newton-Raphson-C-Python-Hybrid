@@ -9,7 +9,7 @@ Instead of manually deriving mathematical functions, the program automatically c
 
 The screenshot below shows the program automatically computing the symbolic derivative using **SymPy** and then performing the **Newton-Raphson iterations** in C until convergence.
 
-![Program Output](images/output.png)
+![Program Output](.git/images/output.png)
 
 ## Project Highlights
 
